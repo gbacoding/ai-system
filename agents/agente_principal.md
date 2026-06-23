@@ -44,4 +44,3 @@ Coordina las skills y mantiene coherencia entre contexto, pasos lógicos y regis
 - `/skills/skill_journal.md`
 - `/docs/context_global.md`
 - `/docs/journal_sesiones.md`
-
