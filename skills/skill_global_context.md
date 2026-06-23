@@ -1,3 +1,10 @@
+---
+name: skill_global_context
+description: Generates and maintains the context_global.md file with essential project information.
+author: gbacoding
+version: 1.0
+tags: [context, architecture, documentation]
+---
 # SKILL: GLOBAL CONTEXT
 
 ## Purpose

@@ -13,7 +13,7 @@ Defines the overall behavior of the assistant:
 ## 🧩 2. Skills
 Independent modules that perform specific tasks:
 - **skill_global_context** → Generates `context_global.md` from technical documents.
-- **skill_pasos_logicos** → A step-by-step tutor to create functionalities without directly generating code.
+- **skill_logical_stteps** → An architectural assistant that breaks down features into actionable, logical steps without directly generating code.
 - **skill_journal** → Generates the technical log for each session (`journal.md`).
 
 Each skill is designed to be fully reusable across any project or technology stack.

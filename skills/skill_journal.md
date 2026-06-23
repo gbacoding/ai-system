@@ -1,3 +1,10 @@
+---
+name: skill_journal
+description: Automatically records a technical journal for each work session, updating journal_sesiones.md.
+author: gbacoding
+version: 1.0
+tags: [journal, documentation, tracking]
+---
 # SKILL: JOURNAL
 
 ## Purpose

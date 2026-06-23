@@ -1,3 +1,10 @@
+---
+name: skill_logical_steps
+description: Guides the user step-by-step through technical tasks and decisions.
+author: gbacoding
+version: 1.0
+tags: [guidance, planning, steps]
+---
 # SKILL: LOGICAL STEPS
 
 ## Purpose
