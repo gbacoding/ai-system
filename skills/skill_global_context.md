@@ -1,29 +1,29 @@
 # SKILL: GLOBAL CONTEXT
 
-## Propósito
-Generar y mantener un archivo `context_global.md` que contenga toda la información esencial del proyecto, incluyendo:
-- Objetivo general del sistema
-- Arquitectura
-- Componentes
-- Flujo de trabajo
-- Dependencias
-- Estado actual
-- Próximos pasos
+## Purpose
+To generate and maintain a `context_global.md` file that contains all essential project information, including:
+- Overall system objective
+- Architecture
+- Components
+- Workflow
+- Dependencies
+- Current state
+- Next steps
 
-## Instrucciones
-1. Analiza toda la información proporcionada por el usuario.
-2. Extrae únicamente lo esencial y estructural.
-3. Genera un archivo claro, ordenado y actualizado.
-4. Si el archivo ya existe, actualízalo sin borrar información útil.
-5. Mantén siempre una estructura coherente y profesional.
+## Instructions
+1. Analyze all information provided by the user.
+2. Extract only the essential and structural elements.
+3. Generate a clear, organized, and up-to-date file.
+4. If the file already exists, update it without deleting useful information.
+5. Always maintain a consistent and professional structure.
 
-## Formato del archivo generado
-Debe incluir:
-- Resumen ejecutivo
-- Arquitectura del sistema
-- Componentes y responsabilidades
-- Skills disponibles
-- Agentes existentes
-- Flujo de trabajo
-- Estado actual del proyecto
-- Tareas pendientes
+## Format of the Generated File
+It must include:
+- Executive summary
+- System architecture
+- Components and responsibilities
+- Available skills
+- Existing agents
+- Workflow
+- Current project status
+- Pending tasks
